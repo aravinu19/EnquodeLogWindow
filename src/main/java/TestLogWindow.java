@@ -22,13 +22,13 @@ import javax.swing.border.TitledBorder;
 public class TestLogWindow extends JFrame{
 
     private static final long serialVersionUID = 1L;
-    public static JFrame mainFrame;
-    public static JLabel headerLabel;
-    public static JLabel statusLabel;
-    public static JPanel controlPanel;
-    public static JTextArea logArea;
-    public static JScrollPane scrollPane;
-    public static JButton closeBTN;
+    private static JFrame mainFrame;
+    private static JLabel headerLabel;
+    private static JLabel statusLabel;
+    private static JPanel controlPanel;
+    private static JTextArea logArea;
+    private static JScrollPane scrollPane;
+    private static JButton closeBTN;
 
     private static boolean is_initialized = false;
 
