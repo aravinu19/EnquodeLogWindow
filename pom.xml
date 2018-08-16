@@ -22,8 +22,9 @@
 
     <packaging>jar</packaging>
 
-    <name>EnquodeLogWindow</name>
-    <url>http://maven.apache.org</url>
+    <name>Enquode Log Window</name>
+    <description>Simple log window for anything.</description>
+    <url>https://github.com/aravinu19/EnquodeLogWindow</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
